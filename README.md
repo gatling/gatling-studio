@@ -14,7 +14,7 @@
 
 ## Downloads
 
-You can download prebuilt binaries for **Linux, Macos and Windows** from the **[Releases page](https://github.com/gatling/gatling-studio/releases)**.
+You can download prebuilt binaries for **Linux, macOS and Windows** from the **[Releases page](https://github.com/gatling/gatling-studio/releases)**.
 
 ---
 
